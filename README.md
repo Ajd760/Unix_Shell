@@ -1,2 +1,2 @@
 # Unix_Shell
-A unix shell simulator written in C++
+A bash shell wrapper written in C++
